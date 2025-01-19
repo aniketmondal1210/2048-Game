@@ -16,7 +16,7 @@ This repository contains a web-based implementation of the classic **2048 puzzle
 3. Your goal is to create the **2048 tile**. Keep playing to achieve even higher scores!  
 
 ## Demo 🔗  
-[Play the game live here!](https://aniketmondal1210.github.io/2048-game) <!--*(Update this link if hosting the game elsewhere)*-->  
+[Play the game live here!](https://aniketmondal1210.github.io/2048-Game/) <!--*(Update this link if hosting the game elsewhere)*-->  
 
 ## Getting Started 🚀  
 1. Clone the repository:  
